@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+    src: url(stylesheet);
+    font-style: normal;
+    font-weight: normal;
+}
+#vader {
+    font-size: 35px;  
+}
+.tip{
+    color: whitesmoke;
+}
+.badguys{
+    background-color: black;
+    color: rgb(245, 231, 33);
+}
+.goodguys{
+    background-color: rgb(20, 20, 179)  ;
+    color: rgb(255, 255, 255);
+}
+#skywalker{
+    font-style: italic; 
+}
+.solders{
+    border: 3.5px dashed black;
+    letter-spacing: 2px;
+}
+.apoyo{
+    text-decoration: underline;
+    text-align: center;
+    color: white;
+}
+.nave{
+    text-transform: uppercase;
+}
+.droid{
+    text-align: center;
+}
